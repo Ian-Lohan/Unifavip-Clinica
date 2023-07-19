@@ -113,8 +113,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>   
-<table>
-  <tr>
     <td align="center">
       <a href="">
         <img src="https://pps.whatsapp.net/v/t61.24694-24/291408889_1082234986006947_5602841920431214743_n.jpg?ccb=11-4&oh=01_AdTWmppBEKCpVVLAgspFZSzmpkGP6Y4XpBxfne1qtPttWg&oe=64C54E3A" width="125px;" alt="Foto de Kayo Henrique"/><br>
@@ -123,8 +121,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-    <table>
-      <tr>
     <td align="center">
       <a href="https://github.com/Ian-Lohan">
         <img src="https://avatars.githubusercontent.com/u/102693640?v=4" width="125px;" alt="Foto de Ian Lohan"/><br>
@@ -133,8 +129,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/MarcosDex">
         <img src="https://instagram.fcau10-1.fna.fbcdn.net/v/t51.2885-15/339083231_729541212205997_8672986426066457533_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fcau10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=rcJ6ZTfN3PMAX9LjpYd&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzA3MDc3ODQzNzI0MTA4NzkzNA%3D%3D.2-ccb7-5&oh=00_AfAUSyLf12KOCYMul1W50LI51v9eaIKLVO_YU7H_ja4_Vg&oe=64BC646E&_nc_sid=ee9879" width="125px;" alt="Foto de Marcantonio Santos"/><br>
@@ -143,8 +137,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-  <table>
-  <tr>
     <td align="center">
       <a href="https://github.com/marcusscunha">
         <img src="" width="125px;" alt="Foto de Marcus Cunha"/><br>
@@ -153,8 +145,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-  <table>
-  <tr>
     <td align="center">
       <a href="">
         <img src="" width="125px;" alt="Foto de Elton Gino"/><br>
@@ -163,8 +153,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-      <table>
-  <tr>
     <td align="center">
       <a href="">
         <img src="https://w0.peakpx.com/wallpaper/451/391/HD-wallpaper-eren-yeager-attack-on-titan-eren-yeager-fanart.jpg" width="125px;" alt="Foto de João"/><br>
@@ -173,8 +161,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
- <table>
-  <tr>
     <td align="center">
       <a href="">
         <img src="" width="125px;" alt="Foto de Lucas Torres"/><br>
