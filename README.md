@@ -1,9 +1,9 @@
 # Sistema de Gerenciamento de Pacientes Unifavip Wyden
 
-![GitHub repo size](https://img.shields.io/github/repo-size/marcosdex/WAStacker?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/marcosdex/WAStacker?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/marcosdex/WAStacker?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/github/issues-pr-closed/marcosdex/WAStacker?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/marcosdex/Unifavip-Clinica?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/marcosdex/Unifavip-Clinica?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/marcosdex/Unifavip-Clinica?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/github/issues-pr-closed/marcosdex/Unifavip-Clinica?style=for-the-badge)
 
 ### Ajustes e Melhorias
 
