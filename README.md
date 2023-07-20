@@ -123,7 +123,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/Ian-Lohan">
-        <img src="https://avatars.githubusercontent.com/u/102693640?v=4" width="125px;" alt="Foto de Ian Lohan"/><br>
+        <img src="https://avatars.githubusercontent.com/u/102693640?v=4" width="150px;" alt="Foto de Ian Lohan"/><br>
         <sub>
           <b>Ian Lohan</b>
         </sub>
@@ -139,7 +139,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/marcusscunha">
-        <img src="" width="125px;" alt="Foto de Marcus Cunha"/><br>
+        <img src="https://avatars.githubusercontent.com/u/106033361?v=4" width="115px;" alt="Foto de Marcus Cunha"/><br>
         <sub>
           <b>Marcus Vitor da Cunha Nascimento</b>
         </sub>
@@ -155,9 +155,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="">
-        <img src="https://w0.peakpx.com/wallpaper/451/391/HD-wallpaper-eren-yeager-attack-on-titan-eren-yeager-fanart.jpg" width="125px;" alt="Foto de João"/><br>
+        <img src="https://avatars.githubusercontent.com/u/111527271?v=4" width="125px;" alt="Foto de João"/><br>
         <sub>
-          <b>João</b>
+          <b>João Victor de Sousa da Silva</b>
         </sub>
       </a>
     </td>
