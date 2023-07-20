@@ -154,7 +154,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://github.com/JoaoVictorSousa-tech">
         <img src="https://avatars.githubusercontent.com/u/111527271?v=4" width="125px;" alt="Foto de João"/><br>
         <sub>
           <b>João Victor de Sousa da Silva</b>
