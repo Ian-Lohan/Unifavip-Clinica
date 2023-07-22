@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to bottom right, orangered, purple);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+form {
+    background-color: white;
+    max-width: 600px;
+    width: 70%;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+}
+
+form h2 {
+    text-align: center;
+    color: orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form img {
+    padding-top: 30px;
+    position: relative;
+    left: 68%;
+}
+
+form input:focus {
+    outline: none;
+}
+
+form input[type=text], form input[type=password] {
+    width: 100%;
+    height: 45px;
+    border: 1px solid #ccc;
+    padding-left: 40px;
+    margin: 10px 0;
+    background-repeat: no-repeat;
+    background-size: 18px;
+    background-position: 10px center;
+}
+
+form input[type=text] {
+    background-image: url("../imagens/icone-email.png");
+}
+
+form input[type=password] {
+    background-image: url("../imagens/icone-senha.png");
+}
+
+form input[type=submit] {
+    margin-top: 10px;
+    font-weight: bold;
+    width: 100%;
+    height: 30px;
+    cursor: pointer;
+    background: orangered;
+    color: white;
+    border: 0;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+form input[type=submit]:hover {
+    background: rgb(156, 42, 0);
+}
